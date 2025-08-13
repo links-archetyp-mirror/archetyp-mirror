@@ -56,4 +56,6 @@ If you're ready to explore Archetyp: Market, and understand the importance of **
 
 This guide is intended solely for educational purposes. The information provided is meant to increase awareness and understanding of the darknet. We neither endorse nor promote any illegal activities. Always comply with local laws and regulations when exploring the internet. Stay safe and informed, and remember the vital role of **Archetyp Mirrors** in accessing the platform.
 
-Update:  08/04/2025 Fixed broken url, now operational
+
+
+Update:  13 August 2025 url is now accessible and operational
